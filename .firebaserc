@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "edoctorsaude": {
+      "hosting": {
+        "login": [
+          "edoctorsaude"
+        ]
+      }
+    }
+  }
+}
