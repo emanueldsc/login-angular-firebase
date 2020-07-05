@@ -3,7 +3,7 @@
 Projeto com fins didático.
 Integração do Angular 9 e firebase Auth utilizando email e senha
 
-[login](./Capturar.png "login page")
+![login](./Capturar.png "login page")
 
 # Login
 
